@@ -29,12 +29,14 @@ public class AutenticacionServiceImpl implements AutenticacionService {
                 String[] datos = linea.split(";");
                 if (placaRequestDTO.placa().equals(datos[1])){
 
-                    datosPlaca = new String[5];
-                    datosPlaca[0] = datos[1];
-                    datosPlaca[1] = datos[2];
-                    datosPlaca[2] = datos[3];
-                    datosPlaca[3] = datos[4];
-                    datosPlaca[4] = datos[5];
+                    datosPlaca = new String[7];
+                    datosPlaca[0] = datos[0];
+                    datosPlaca[1] = datos[1];
+                    datosPlaca[2] = datos[2];
+                    datosPlaca[3] = datos[3];
+                    datosPlaca[4] = datos[4];
+                    datosPlaca[5] = datos[5];
+                    datosPlaca[6] = datos[6];
                 }
             }
 

@@ -1,7 +1,7 @@
 1;QWE-987;Nissan;centra;4;15500;negro
 2;VEG-4713;Toyota;3D;4;23900;Blanco
-3;BMB-023;Chverolet;Camaro;2,37000;Amarillo
+3;BMB-023;Chverolet;Camaro;2;37000;Amarillo
 4;GHJ-765;Hyundai;Tucson;4;45000;Azul
 5;YZS-2846;Audi;R8;2;35000;Blanco
-6;BSA-1434;BWM;X5M,4;30000;Gris
+6;BSA-1434;BWM;X5M;4;30000;Gris
 7;JFC-723;KIA;Sportage;4;27000;AZUL
